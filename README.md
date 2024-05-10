@@ -1,5 +1,5 @@
 # android-bluetooth
-Dump of my Android Bluetooth library for Android 1.x, published on Google Code in July 2009
+Dump of my Android Bluetooth library for Android 1.x, published on Google Code in July 2009. As far as I knew at that time, it was the world first open source library to access Android Bluetooth stack.
 
 [ORIGINAL DESCRIPTION ON GOOGLE CODE]
 
